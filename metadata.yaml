@@ -1,0 +1,36 @@
+_repo: The-Spectacle-Man--A-Story-of-the-Missing-Bridge_30993
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leonard, Mary Finley
+    alias: Leonard, Mary F.
+    birthdate: 1862
+    gutenberg_agent_id: '6037'
+    url: http://www.gutenberg.org/2009/agents/6037
+description: ''
+gutenberg_issued: '2010-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Opticians -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Storytelling -- Juvenile fiction'
+title: 'The Spectacle Man: A Story of the Missing Bridge'
+url: http://www.gutenberg.org/ebooks/30993
