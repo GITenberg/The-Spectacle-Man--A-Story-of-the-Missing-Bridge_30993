@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '6037'
     url: http://www.gutenberg.org/2009/agents/6037
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30993#The-Spectacle-Man--A-Story-of-the-Missing-Bridge
 gutenberg_issued: '2010-01-16'
 gutenberg_type: Text
 identifiers:
